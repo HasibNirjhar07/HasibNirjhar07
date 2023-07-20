@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
-  <h1>Hello👋 I'm Hasib Nirjhar</h1>
-  <h3>Software Engineer Student</h3>
+  <h1>Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35"> I'm Hasib Nirjhar</h1>
+  <h3>Software Engineering Student</h3>
   
 </div>
 
@@ -12,4 +12,7 @@
 - 🌱 I’m currently learning 
 - 💬 Ask me about 
 - 📫 Mail: 
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
+
+
+
