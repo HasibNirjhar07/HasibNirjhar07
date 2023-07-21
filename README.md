@@ -1,10 +1,11 @@
 
 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="35">
   <h1>Hello, I'm Hasibul Islam Nirjhar</h1>
   <h3>Software Engineering Student</h3>
-
+  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="400" height="250" alt="Welcome GIF">
 
   <a href="mailto:hasibulislam@iut-dhaka.edu">
     <img src="https://img.shields.io/badge/Email-hasibulislam%40iut--dhaka.edu-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
@@ -14,8 +15,6 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=HasibNirjhar07&style=for-the-badge&color=blue" alt="Profile Views">
 </div>
-
-![Welcome GIF](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif)
 
 ###  About Me :
 
@@ -51,4 +50,3 @@
 Feel free to explore my repositories, and don't forget to ⭐️ your favorite projects!
 
 Happy coding! 😄
-
