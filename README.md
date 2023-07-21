@@ -7,16 +7,15 @@
   <img src="https://d2xrkn56aw2rdo.cloudfront.net/icc/assets/Mobile/Loading_Blue.gif" width="100">
 
   <a href="mailto:hasibulislam@iut-dhaka.edu">
-    <img src="https://img.shields.io/badge/Email-me%40example.com-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-hasibulislam%40iut--dhaka.edu-blue?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/hasibul-islam-nirjhar-b50925262/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/hasibnirjhar.11/">
-    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://twitter.com/NirjharHasib">
+    <img src="https://img.shields.io/badge/Twitter-NirjharHasib-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=HasibNirjhar07&style=for-the-badge&color=blue" alt="Profile Views">
 </div>
+
+![Welcome GIF](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif)
 
 ###  About Me :
 
@@ -34,12 +33,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🚀 Featured Projects:
-
-- [Project 1](https://github.com/[Your GitHub Username]/project1): Short description of the project.
-- [Project 2](https://github.com/[Your GitHub Username]/project2): Short description of the project.
-- [Project 3](https://github.com/[Your GitHub Username]/project3): Short description of the project.
-
 ### 📈 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasibNirjhar07&show_icons=true&hide_title=true&count_private=true&hide=prs,issues&theme=radical)
@@ -51,8 +44,8 @@
 ### 📣 Let's Connect:
 
 - 🌐 [Personal Website](https://www.yourwebsite.com)
-- 🐦 [Twitter](https://twitter.com/[Your Twitter])
-- 📧 [Email](mailto:youremail@example.com)
+- 🐦 [Twitter](https://twitter.com/NirjharHasib)
+- 📧 [Email](mailto:hasibulislam@iut-dhaka.edu)
 - 🤝 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
 
 Feel free to explore my repositories, and don't forget to ⭐️ your favorite projects!
