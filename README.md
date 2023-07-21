@@ -42,10 +42,10 @@
 
 ### 📣 Let's Connect:
 
-- 🌐 [Personal Website](https://www.yourwebsite.com)
+
 - 🐦 [Twitter](https://twitter.com/NirjharHasib)
 - 📧 [Email](mailto:hasibulislam@iut-dhaka.edu)
-- 🤝 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile/)
+- 🤝 [LinkedIn](https://www.linkedin.com/in/hasibul-islam-nirjhar-b50925262/)
 
 Feel free to explore my repositories, and don't forget to ⭐️ your favorite projects!
 
