@@ -47,7 +47,14 @@
 
 ## 🌟 Featured Projects
 
-<!-- You can add your top projects here -->
+<div align="center">
+  <a href="https://github.com/HasibNirjhar07/SPL-Project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=SPL-Project-1&theme=radical" />
+  </a>
+  <a href="https://github.com/adid/SPL-DP-Manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=adid&repo=SPL-DP-Manager&theme=radical" />
+  </a>
+</div>
 <div align="center">
   <a href="https://github.com/HasibNirjhar07/ProjectName1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=ProjectName1&theme=radical" />
