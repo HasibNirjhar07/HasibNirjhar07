@@ -55,13 +55,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=adid&repo=SPL-DP-Manager&theme=radical" />
   </a>
 </div>
-<div align="center">
-  <a href="https://github.com/HasibNirjhar07/ProjectName1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=ProjectName1&theme=radical" />
-  </a>
-  <a href="https://github.com/HasibNirjhar07/ProjectName2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=ProjectName2&theme=radical" />
-  </a>
+
 </div>
 
 ## 🤝 Let's Connect
