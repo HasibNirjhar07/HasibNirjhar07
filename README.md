@@ -47,7 +47,7 @@
 
 ## 🌟 Featured Projects
 
-<div align="center">
+<div>
   <a href="https://github.com/HasibNirjhar07/SPL-Project-1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=SPL-Project-1&theme=radical" />
   </a>
