@@ -15,7 +15,7 @@
 ## 🚀 About Me
 
 - 🎓 Currently studying at Islamic University of Technology
-- 💻 Passionate about software engineering and problem-solving
+- 💻 Passionate about software engineering and machine-learning
 - 🌱 Learning and growing in Python, C++, and C#
 - 🔍 Actively seeking software engineering internships
 - 🎮 Fun fact: I'm an avid video game enthusiast!
