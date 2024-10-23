@@ -1,270 +1,97 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <style>
-    @keyframes neon {
-      0%, 100% {
-        text-shadow: 0 0 10px #00ff00,
-                     0 0 20px #00ff00,
-                     0 0 30px #00ff00;
-      }
-      50% {
-        text-shadow: 0 0 20px #00ff00,
-                     0 0 30px #00ff00,
-                     0 0 40px #00ff00;
-      }
-    }
+<div align="center">
+  
+  # Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hasibul+Islam+Nirjhar+%F0%9F%91%8B;Aspiring+Software+Engineer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+</div>
 
-    @keyframes borderGlow {
-      0%, 100% { border-color: #00ff00; }
-      50% { border-color: #32cd32; }
-    }
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="400" />
+</div>
 
-    @keyframes gradientBG {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
+<h2 align="center">🚀 About Me</h2>
 
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 2rem;
-      background: linear-gradient(-45deg, #0a0a0a, #1a1a1a, #2a2a2a, #1a1a1a);
-      background-size: 400% 400%;
-      animation: gradientBG 15s ease infinite;
-      color: #ffffff;
-    }
+```python
+class HasibulIslam:
+    def __init__(self):
+        self.name = "Hasibul Islam Nirjhar"
+        self.education = "Islamic University of Technology"
+        self.role = "Aspiring Software Engineer"
+        self.languages_spoken = ["Bengali", "English"]
+        self.interests = ["Software Development", "Machine Learning", "Gaming"]
+        
+    def say_hi(self):
+        print("Thanks for visiting my GitHub! Let's build something amazing together!")
 
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 2rem;
-      background: rgba(0, 0, 0, 0.8);
-      border-radius: 20px;
-      border: 2px solid #00ff00;
-      animation: borderGlow 2s infinite;
-      box-shadow: 0 0 20px rgba(0, 255, 0, 0.2);
-    }
+me = HasibulIslam()
+me.say_hi()
+```
 
-    .header {
-      text-align: center;
-      margin-bottom: 2rem;
-      position: relative;
-    }
+<h2 align="center">🛠️ Technologies & Tools</h2>
 
-    .header h1 {
-      font-size: 3em;
-      margin: 0.5em 0;
-      animation: neon 2s infinite;
-      color: #fff;
-    }
+<details open>
+<summary>Languages</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+</details>
 
-    .wave-gif {
-      height: 35px;
-      vertical-align: middle;
-      margin-right: 10px;
-    }
+<details open>
+<summary>Development Tools & Frameworks</summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+</details>
 
-    .coding-gif {
-      max-width: 100%;
-      height: auto;
-      border-radius: 10px;
-      margin: 1rem 0;
-      box-shadow: 0 0 20px rgba(0, 255, 0, 0.3);
-    }
+<h2 align="center">📊 GitHub Analytics</h2>
 
-    .badges-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-      justify-content: center;
-      margin: 1.5rem 0;
-    }
+<p align="center">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=HasibNirjhar07&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibNirjhar07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
+</p>
 
-    .badge {
-      padding: 0.5rem 1rem;
-      border-radius: 8px;
-      background: rgba(0, 255, 0, 0.1);
-      border: 1px solid #00ff00;
-      color: #fff;
-      text-decoration: none;
-      transition: all 0.3s ease;
-    }
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibNirjhar07&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" />
+</p>
 
-    .badge:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 0 15px rgba(0, 255, 0, 0.5);
-      background: rgba(0, 255, 0, 0.2);
-    }
+<h2 align="center">📈 Contribution Graph</h2>
 
-    .section {
-      margin: 2.5rem 0;
-      padding: 1.5rem;
-      border-radius: 10px;
-      background: rgba(255, 255, 255, 0.05);
-      border: 1px solid rgba(0, 255, 0, 0.2);
-      transition: all 0.3s ease;
-    }
+[![Hasibul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HasibNirjhar07&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-    .section:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 5px 15px rgba(0, 255, 0, 0.2);
-    }
+<h2 align="center">🤝 Connect With Me</h2>
 
-    .section h2 {
-      color: #00ff00;
-      border-bottom: 2px solid #00ff00;
-      padding-bottom: 0.5rem;
-      margin-bottom: 1rem;
-    }
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasibulislam@iut-dhaka.edu)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NirjharHasib)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-islam-nirjhar-b50925262/)
+  
+</div>
 
-    .skills-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
-      gap: 1rem;
-      margin: 1rem 0;
-    }
+<div align="center">
+  <h3>🎮 When I'm Not Coding</h3>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
+  <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
+</div>
 
-    .skill-badge {
-      background: linear-gradient(45deg, #1a1a1a, #2a2a2a);
-      padding: 0.8rem;
-      border-radius: 8px;
-      text-align: center;
-      border: 1px solid #00ff00;
-      transition: all 0.3s ease;
-    }
+<div align="center">
+  <h3>💻 Profile Views</h3>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=HasibNirjhar07&color=brightgreen&style=for-the-badge)
+</div>
 
-    .skill-badge:hover {
-      transform: scale(1.05);
-      box-shadow: 0 0 15px rgba(0, 255, 0, 0.3);
-    }
+---
 
-    .stats-container {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-      gap: 1.5rem;
-      margin: 2rem 0;
-    }
-
-    .stats-card {
-      background: rgba(0, 0, 0, 0.5);
-      padding: 1.5rem;
-      border-radius: 10px;
-      text-align: center;
-      border: 1px solid #00ff00;
-      transition: all 0.3s ease;
-    }
-
-    .stats-card:hover {
-      transform: translateY(-5px);
-      box-shadow: 0 5px 15px rgba(0, 255, 0, 0.2);
-    }
-
-    .footer {
-      text-align: center;
-      margin-top: 3rem;
-      padding-top: 2rem;
-      border-top: 2px solid #00ff00;
-    }
-
-    .connect-section {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 1rem;
-      margin: 2rem 0;
-    }
-
-    .connect-button {
-      padding: 0.8rem 2rem;
-      border-radius: 30px;
-      background: linear-gradient(45deg, #00ff00, #32cd32);
-      color: #000;
-      text-decoration: none;
-      font-weight: bold;
-      transition: all 0.3s ease;
-      text-transform: uppercase;
-      letter-spacing: 1px;
-    }
-
-    .connect-button:hover {
-      transform: translateY(-3px);
-      box-shadow: 0 0 20px rgba(0, 255, 0, 0.5);
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <div class="header">
-      <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" class="wave-gif">
-      <h1>Hasibul Islam Nirjhar</h1>
-      <h3>Aspiring Software Engineer | Student at Islamic University of Technology</h3>
-      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" class="coding-gif">
-    </div>
-
-    <div class="badges-container">
-      <a href="mailto:hasibulislam@iut-dhaka.edu" class="badge">
-        📧 Email
-      </a>
-      <a href="https://twitter.com/NirjharHasib" class="badge">
-        🐦 Twitter
-      </a>
-      <a href="https://www.linkedin.com/in/hasibul-islam-nirjhar-b50925262/" class="badge">
-        💼 LinkedIn
-      </a>
-    </div>
-
-    <div class="section">
-      <h2>🚀 About Me</h2>
-      <ul>
-        <li>🎓 Currently studying at Islamic University of Technology</li>
-        <li>💻 Passionate about software engineering and machine-learning</li>
-        <li>🌱 Learning and growing in Python, C++, and C#</li>
-        <li>🔍 Actively seeking software engineering internships</li>
-        <li>🎮 Fun fact: I'm an avid video game enthusiast!</li>
-      </ul>
-    </div>
-
-    <div class="section">
-      <h2>🛠️ Skills & Tools</h2>
-      <div class="skills-grid">
-        <div class="skill-badge">Python</div>
-        <div class="skill-badge">C++</div>
-        <div class="skill-badge">C#</div>
-        <div class="skill-badge">JavaScript</div>
-        <div class="skill-badge">React</div>
-        <div class="skill-badge">Git</div>
-        <div class="skill-badge">VS Code</div>
-      </div>
-    </div>
-
-    <div class="section">
-      <h2>📊 GitHub Stats</h2>
-      <div class="stats-container">
-        <div class="stats-card">
-          <h3>Profile Statistics</h3>
-          <img src="https://github-readme-stats.vercel.app/api?username=HasibNirjhar07&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; height: auto;">
-        </div>
-        <div class="stats-card">
-          <h3>Contribution Streak</h3>
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibNirjhar07&theme=radical" alt="GitHub Streak" style="max-width: 100%; height: auto;">
-        </div>
-      </div>
-    </div>
-
-    <div class="footer">
-      <div class="connect-section">
-        <h2>🤝 Let's Connect</h2>
-        <p>I'm always excited to collaborate on interesting projects or discuss tech!</p>
-        <div class="badges-container">
-          <a href="https://www.linkedin.com/in/hasibul-islam-nirjhar-b50925262/" class="connect-button">Connect on LinkedIn</a>
-          <a href="mailto:hasibulislam@iut-dhaka.edu" class="connect-button">Send Email</a>
-        </div>
-      </div>
-      <p>Happy Coding! 😄</p>
-    </div>
-  </div>
-</body>
-</html>
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
