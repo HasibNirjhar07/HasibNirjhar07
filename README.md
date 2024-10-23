@@ -1,97 +1,147 @@
 <div align="center">
-  
-  # Welcome to my GitHub! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Hasibul+Islam+Nirjhar+%F0%9F%91%8B;Aspiring+Software+Engineer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;Always+Learning+New+Things+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+<!-- Header Banner -->
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hasibul%20Islam%20Nirjhar&fontSize=70&fontColor=fff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=65)
+
+<!-- Multiple line typing effect -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EDDDD&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Garden+🌱;Software+Engineering+Student+👨‍💻;Machine+Learning+Enthusiast+🤖;Problem+Solver+%26+Tech+Explorer+🚀)](https://git.io/typing-svg)
+
+<!-- Profile Views & Social Links -->
+<div style="margin-bottom: 2rem;">
+  <img src="https://komarev.com/ghpvc/?username=HasibNirjhar07&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="profile views" />
+  <a href="https://www.github.com/HasibNirjhar07" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/github/followers/HasibNirjhar07?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="followers" />
+  </a>
+</div>
+
+<!-- Animated Banner -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding" width="400" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" width="400" />
 </div>
 
-<h2 align="center">🚀 About Me</h2>
+<!-- About Me Section -->
+## 🚀 About Me
 
-```python
-class HasibulIslam:
-    def __init__(self):
-        self.name = "Hasibul Islam Nirjhar"
-        self.education = "Islamic University of Technology"
-        self.role = "Aspiring Software Engineer"
-        self.languages_spoken = ["Bengali", "English"]
-        self.interests = ["Software Development", "Machine Learning", "Gaming"]
-        
-    def say_hi(self):
-        print("Thanks for visiting my GitHub! Let's build something amazing together!")
 
-me = HasibulIslam()
-me.say_hi()
+
+
+
+```typescript
+const hasibul = {
+  name: "Hasibul Islam Nirjhar",
+  location: "Bangladesh",
+  education: {
+    university: "Islamic University of Technology",
+    major: "Software Engineering",
+    year: "3rd Year"
+  },
+  currentlyLearning: [
+    "Machine Learning",
+    "System Design",
+    "Cloud Architecture"
+  ],
+  interests: [
+    "Software Development",
+    "AI/ML",
+    "Problem Solving",
+    "Game Development"
+  ],
+  techStack: {
+    languages: ["Python", "C++", "JavaScript", "C#"],
+    frameworks: ["React", "TensorFlow", "PyTorch"],
+    databases: ["MongoDB", "PostgreSQL"],
+    tools: ["Git", "Docker", "VS Code"]
+  },
+  funFact: "I debug with coffee ☕ and solve bugs with pizza 🍕"
+};
 ```
 
-<h2 align="center">🛠️ Technologies & Tools</h2>
 
-<details open>
-<summary>Languages</summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-</details>
 
-<details open>
-<summary>Development Tools & Frameworks</summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-</details>
+<br/>
 
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=HasibNirjhar07&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibNirjhar07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasibNirjhar07&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117" />
-</p>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-[![Hasibul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HasibNirjhar07&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<h2 align="center">🤝 Connect With Me</h2>
-
+<!-- Skills Section -->
+## 💻 Tech Stack 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasibulislam@iut-dhaka.edu)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NirjharHasib)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasibul-islam-nirjhar-b50925262/)
-  
+
+  ### Languages
+  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+  ### Frameworks & Libraries
+  ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+  ### Tools & Platforms
+  ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
+<!-- GitHub Stats -->
+## 📊 GitHub Statistics
 <div align="center">
-  <h3>🎮 When I'm Not Coding</h3>
-  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" />
-  <img src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HasibNirjhar07&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Hasibul's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibNirjhar07&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
+<!-- GitHub Streak -->
 <div align="center">
-  <h3>💻 Profile Views</h3>
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=HasibNirjhar07&color=brightgreen&style=for-the-badge)
+  <br/>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasibNirjhar07&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Contribution Streak" />
 </div>
 
----
-
+<!-- Contribution Graph -->
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+  <br/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasibNirjhar07&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
+
+<!-- Featured Projects -->
+## 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/HasibNirjhar07/project1">
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=project1&theme=react&bg_color=0D1117&title_color=00b3ff&icon_color=F8D866&hide_border=true&show_icons=false" alt="project1"/>
+  </a>
+  <a href="https://github.com/HasibNirjhar07/project2">
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=project2&theme=react&bg_color=0D1117&title_color=00b3ff&icon_color=F8D866&hide_border=true&show_icons=false" alt="project2"/>
+  </a>
+</div>
+
+<!-- Connect Section -->
+## 🤝 Let's Connect
+<div align="center">
+  <a href="mailto:hasibulislam@iut-dhaka.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/NirjharHasib">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hasibul-islam-nirjhar-b50925262/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+<!-- Gaming Section -->
+## 🎮 Gaming Profiles
+<div align="center">
+  <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Epic Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"/>
+</div>
+
+<!-- Footer -->
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Keep%20Coding!&fontSize=50&fontColor=fff&animation=twinkling)
