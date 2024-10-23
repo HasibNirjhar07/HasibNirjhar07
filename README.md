@@ -112,12 +112,13 @@ const hasibul = {
 ## 🌟 Featured Projects
 <div align="center">
   <a href="https://github.com/HasibNirjhar07/lingua-kids">
-    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=project1&theme=react&bg_color=0D1117&title_color=00b3ff&icon_color=F8D866&hide_border=true&show_icons=false" alt="project1"/>
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=lingua-kids&theme=react&bg_color=0D1117&title_color=00b3ff&icon_color=F8D866&hide_border=true&show_icons=false" alt="lingua-kids"/>
   </a>
   <a href="https://github.com/adid/SPL-DP-Manager">
-    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=project2&theme=react&bg_color=0D1117&title_color=00b3ff&icon_color=F8D866&hide_border=true&show_icons=false" alt="project2"/>
+    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adid&repo=SPL-DP-Manager&theme=react&bg_color=0D1117&title_color=00b3ff&icon_color=F8D866&hide_border=true&show_icons=false" alt="SPL-DP-Manager"/>
   </a>
 </div>
+
 
 <!-- Connect Section -->
 ## 🤝 Let's Connect
