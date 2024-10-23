@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hasibul%20Islam%20Nirjhar&fontSize=70&fontColor=fff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=65)
 
 <!-- Multiple line typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EDDDD&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Garden+🌱;Software+Engineering+Student+👨‍💻;Machine+Learning+Enthusiast+🤖;Tech+Explorer+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EDDDD&center=true&vCenter=true&width=800&lines=Welcome+to+my+Github+🌱;Software+Engineering+Student+👨‍💻;Machine+Learning+Enthusiast+🤖;Tech+Explorer+🚀)](https://git.io/typing-svg)
 
 <!-- Profile Views & Social Links -->
 <div style="margin-bottom: 2rem;">
