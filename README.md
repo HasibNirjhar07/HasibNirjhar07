@@ -4,7 +4,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Hasibul%20Islam%20Nirjhar&fontSize=70&fontColor=fff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20|%20Machine%20Learning%20Enthusiast&descAlignY=65)
 
 <!-- Multiple line typing effect -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EDDDD&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Garden+🌱;Software+Engineering+Student+👨‍💻;Machine+Learning+Enthusiast+🤖;Problem+Solver+%26+Tech+Explorer+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EDDDD&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Garden+🌱;Software+Engineering+Student+👨‍💻;Machine+Learning+Enthusiast+🤖;Tech+Explorer+🚀)](https://git.io/typing-svg)
 
 <!-- Profile Views & Social Links -->
 <div style="margin-bottom: 2rem;">
@@ -44,19 +44,17 @@ const hasibul = {
     year: "3rd Year"
   },
   currentlyLearning: [
-    "Machine Learning",
-    "System Design",
-    "Cloud Architecture"
+    "Machine Learning"   
   ],
   interests: [
     "Software Development",
     "AI/ML",
     "Problem Solving",
-    "Game Development"
+    "Web Development"
   ],
   techStack: {
     languages: ["Python", "C++", "JavaScript", "C#"],
-    frameworks: ["React", "TensorFlow", "PyTorch"],
+    frameworks: ["React", "TensorFlow", "NextJs"],
     databases: ["MongoDB", "PostgreSQL"],
     tools: ["Git", "Docker", "VS Code"]
   },
@@ -113,10 +111,10 @@ const hasibul = {
 <!-- Featured Projects -->
 ## 🌟 Featured Projects
 <div align="center">
-  <a href="https://github.com/HasibNirjhar07/project1">
+  <a href="https://github.com/HasibNirjhar07/lingua-kids">
     <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=project1&theme=react&bg_color=0D1117&title_color=00b3ff&icon_color=F8D866&hide_border=true&show_icons=false" alt="project1"/>
   </a>
-  <a href="https://github.com/HasibNirjhar07/project2">
+  <a href="https://github.com/adid/SPL-DP-Manager">
     <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HasibNirjhar07&repo=project2&theme=react&bg_color=0D1117&title_color=00b3ff&icon_color=F8D866&hide_border=true&show_icons=false" alt="project2"/>
   </a>
 </div>
