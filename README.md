@@ -137,9 +137,10 @@ const hasibul = {
 <!-- Gaming Section -->
 ## 🎮 Gaming Profiles
 <div align="center">
-  <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Epic Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white"/>
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199054527952/)  
+[![Epic Games](https://img.shields.io/badge/Epic%20Games-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)](https://store.epicgames.com/u/82918d2dbe2f431891c1fb7cd959a595)
+
+  
 </div>
 
 <!-- Footer -->
