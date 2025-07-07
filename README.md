@@ -92,18 +92,18 @@ const hasibul = {
 # 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HasibNirjhar07&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Hasibul's GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibNirjhar07&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Most Used Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HasibNirjhar07&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117&cache_seconds=1800" alt="Hasibul's GitHub Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibNirjhar07&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117&cache_seconds=1800" alt="Most Used Languages" />
 </div>
 
 <div align="center">
   <br/>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasibNirjhar07&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Contribution Streak" />
+  <img width="90%" src="https://streak-stats.demolab.com/?user=HasibNirjhar07&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Contribution Streak" />
 </div>
 
 <div align="center">
   <br/>
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasibNirjhar07&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasibNirjhar07&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
 </div>
 
 <!-- Featured Projects -->
