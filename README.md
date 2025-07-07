@@ -89,20 +89,18 @@ const hasibul = {
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 </div>
 
-<!-- GitHub Stats -->
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=HasibNirjhar07&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Hasibul's GitHub Stats" /> 
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasibNirjhar07&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" alt="Most Used Languages" />
 </div>
 
-<!-- GitHub Streak -->
 <div align="center">
   <br/>
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=HasibNirjhar07&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff" alt="Contribution Streak" />
 </div>
 
-<!-- Contribution Graph -->
 <div align="center">
   <br/>
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=HasibNirjhar07&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
